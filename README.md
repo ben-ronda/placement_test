@@ -10,6 +10,7 @@ This project is for the purpose of demonstrating my abilities in the following:
 * Bootstrap
 * BDD
 * and Git
+
 ***
 ## Site Features:
 * JavaScript webapp  that takes a number input from user and:
