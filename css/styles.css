@@ -5,3 +5,14 @@
 div{
   font-family: sans-serif;
 }
+
+.sidebar{
+  float: left;
+
+  background-color: #84e184;
+  width: 200px;
+}
+
+.sidebar h5{
+  color: #ffff66;
+}
