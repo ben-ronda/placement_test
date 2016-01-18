@@ -21,7 +21,7 @@ This project is for the purpose of demonstrating my abilities in the following:
 ***
 ## Installation:
 To install Ping Pong, run the the following line of code to clone the repository:   
-'git clone https://github.com/ben-ronda/placement_test'
+``git clone https://github.com/ben-ronda/placement_test``
 
 ***
 ## License
