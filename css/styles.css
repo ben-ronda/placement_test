@@ -1,5 +1,8 @@
 .header{
+  padding: 50px;
+  margin-bottom: 20px;
   text-align: center;
+  background-color: blue;
 }
 
 div{
@@ -7,12 +10,24 @@ div{
 }
 
 .sidebar{
-  float: left;
-
+  padding-right: 0px;
+  padding-left: 5px;
+  padding-top: 10px;
+  padding-bottom: 100%;
+  margin-right: 05x;
   background-color: #84e184;
   width: 200px;
 }
 
 .sidebar h5{
   color: #ffff66;
+}
+
+.pingpong {
+  display: inline-block;
+}
+
+body {
+  margin: 0px; 
+  background-color: #e6e6e6; 
 }
