@@ -19,8 +19,8 @@ This project is for the purpose of demonstrating my abilities in the following:
   3. Prints"ping-pong" if number is divisble by both 3 and 5
 
 ***
-## Instalation:
-To install Ping Pong clone the following repository:  
+## Installation:
+To install Ping Pong, run the the following line of code to clone the repository:   
 'git clone https://github.com/ben-ronda/placement_test'
 
 ***
