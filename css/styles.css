@@ -1,6 +1,6 @@
 .header{
-  padding: 50px;
-  margin-bottom: 20px;
+  /*padding: 50px;
+  margin-bottom: 20px;*/
   text-align: center;
   background-color: blue;
 }
@@ -29,10 +29,12 @@ div{
 }
 
 .rules {
-  
+  margin-right: auto;
+  margin-left: auto;
 }
 
 body {
   margin: 0px; 
   background-color: #e6e6e6; 
 }
+
