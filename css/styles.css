@@ -31,14 +31,6 @@
   padding-left: 25px;
 }
 
-#user-input {
-  max-width: 300px;
-}
-
-#label{
-  max-width: 250px;
-  min-width: 250px;
-}
 body {
   margin: 0px; 
   background-color: #e6e6e6;
