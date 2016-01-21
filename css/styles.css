@@ -4,15 +4,11 @@
   background-color: #f4deb5;
 }
 
-div{
-  font-family: sans-serif;
-}
 .row{
   height: 100%;
 }
 
 .sidebar{
-  float: left;
   padding-left: 25px;
   padding-top: 7px;
   padding-bottom:7px;
@@ -30,12 +26,19 @@ div{
 }
 
 .rules {
-  float: left;
   min-width: 250px;
   max-width: 550px;
   padding-left: 25px;
 }
 
+#user-input {
+  max-width: 300px;
+}
+
+#label{
+  max-width: 250px;
+  min-width: 250px;
+}
 body {
   margin: 0px; 
   background-color: #e6e6e6;
@@ -44,4 +47,5 @@ body {
 
 html{
   height: 100%;
+  font-family: sans-serif;
 }
