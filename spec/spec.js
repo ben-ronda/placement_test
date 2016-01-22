@@ -12,4 +12,7 @@ describe('pingpong',function() {
   it("should return any number that isn't a multimple of 3, 5, or 15", function(){
     expect(pingpong(2)).to.eql([1, 2]);
   })
+  it("should return nothing if user inputs something thats not a number", function(){
+    expect(pingpong("a")).to.eql([]);
+  })
 })
