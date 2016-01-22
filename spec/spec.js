@@ -1,5 +1,5 @@
 describe('pingpong',function() {
-  it("should return ping if the any number leading up to the user input is divisble by 3", function(){
-    expect(pingpong(15)).to.equal(true);
+  it("should replace a multiple of three with ping", function(){
+    expect(pingpong(3)).to.eql([1, 2, "ping"]);
   })
 })
