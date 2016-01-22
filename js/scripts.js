@@ -5,7 +5,7 @@ function pingpong(userInput) {
   for(var i = 1; i <= userInput; i++){
     if (i % 15 === 0) {
       $("ul").append("<li>" + "ping pong" + "</li>");
-      results.push("ping-pong");
+      results.push("ping pong");
     } 
     else if (i % 5 === 0) {
       $("ul").append("<li>" + "pong" + "</li>");
